@@ -1613,5 +1613,38 @@
     "id": "60",
     "image_url": "",
     "featured": false
+  },
+  {
+    "name": "Gilda Café & Market",
+    "slug": "gilda-cafe-market",
+    "description": "This beloved Fishtown gem serves up some of the best breakfast sandwiches in the city alongside authentic Portuguese pastéis de nata that rival those found in Lisbon. The sunny European-countryside atmosphere and consistently exceptional food make it feel like catching up with friends every time you visit.",
+    "category": "restaurant",
+    "subcategory": "Portuguese",
+    "neighborhood": "Fishtown",
+    "price_level": 2,
+    "vibe": [
+      "cozy",
+      "casual",
+      "chill"
+    ],
+    "address": "300 E. Girard Ave, Philadelphia, PA 19125",
+    "website_url": "gildaphilly.com",
+    "instagram": "gildaphilly",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=300+E.+Girard+Ave%2C+Philadelphia%2C+PA+19125",
+    "tags": [
+      "breakfast",
+      "lunch",
+      "coffee",
+      "pastries",
+      "market",
+      "takeout",
+      "outdoor seating",
+      "neighborhood gem",
+      "Portuguese food",
+      "pastéis de nata"
+    ],
+    "id": "61",
+    "image_url": "",
+    "featured": false
   }
 ]

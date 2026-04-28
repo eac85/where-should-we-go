@@ -13,7 +13,7 @@ const CATEGORIES = [
   { key: "cultural", label: "CULTURAL" },
 ];
 
-const NEIGHBORHOODS: string[] = require("@/data/neighborhoods.json");
+const NEIGHBORHOODS: string[] = [...new Set((PLACES as Place[]).map((p) => p.neighborhood))];
 
 const PRICE_LEVELS = [
   { value: 1, label: "$" },
@@ -58,12 +58,43 @@ interface Place {
   featured: boolean;
 }
 
+const MUTED_COLORS = [
+  // Row 1
+     "#D12400",
+      "#801B08",
+        "#C46647",  
+        "#E7B34E",
+        "#E6D5C1",
+        "#E6D5C1",
+        "#012480",
+        "#001B88",
+        "#4C6671",
+        "#67B3AE",  
+        "#CDCDCD",
+        "#F3EDE6",  
+        "#1F2E2B",
+        "#365840",
+        "#749267",
+        "#8A8A8A",
+        "#4F4F4F",
+        "#000000",
+]
+
+function hashId(id: string): number {
+  let h = 0;
+  for (let i = 0; i < id.length; i++) h = (h * 31 + id.charCodeAt(i)) | 0;
+  return Math.abs(h);
+}
+
 function PlaceCard({ place, index }: {
   place: Place;
   index: number;
 }) {
   const [hovered, setHovered] = useState(false);
   const [imgLoaded, setImgLoaded] = useState(false);
+  const bgColor = place.image_url
+    ? "var(--color-muted)"
+    : MUTED_COLORS[hashId(place.id) % MUTED_COLORS.length];
 
   return (
     <div
@@ -76,10 +107,10 @@ function PlaceCard({ place, index }: {
         style={{
           position: "relative",
           width: "100%",
-          aspectRatio: "3 / 2",
+          aspectRatio: "3 / 1",
           overflow: "hidden",
           cursor: "pointer",
-          backgroundColor: "var(--color-muted)",
+          backgroundColor: bgColor,
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
@@ -171,7 +202,7 @@ function PlaceCard({ place, index }: {
         <div
           style={{
             fontFamily: "var(--font-heading)",
-            fontSize: 22,
+            fontSize: 28,
             fontWeight: 700,
             letterSpacing: "0.02em",
             color: "var(--color-ink)",
