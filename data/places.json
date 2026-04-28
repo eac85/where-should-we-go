@@ -1546,5 +1546,30 @@
     "id": "58",
     "image_url": "",
     "featured": false
+  },
+  {
+    "name": "For Pete's Sake Pub",
+    "slug": "for-petes-sake",
+    "description": "Classic corner pub for basic fare, plus wines by the glass, cocktails & an extensive beer list.",
+    "category": "restaurant",
+    "subcategory": "Bar",
+    "neighborhood": "Queen Village",
+    "price_level": 2,
+    "vibe": [
+      "casual",
+      "chill",
+      "neighborhood"
+    ],
+    "address": "900 S Front St, Philadelphia, PA 19147",
+    "website_url": "https://www.forpetessakepub.com/",
+    "instagram": "",
+    "google_maps_url": "https://maps.google.com/maps?q=For+Pete's+Sake+Philadelphia+PA",
+    "tags": [
+      "casual dining",
+      "neighborhood"
+    ],
+    "id": "59",
+    "image_url": "",
+    "featured": false
   }
 ]
