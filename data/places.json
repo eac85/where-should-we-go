@@ -1546,5 +1546,72 @@
     "id": "58",
     "image_url": "",
     "featured": false
+  },
+  {
+    "name": "Supérette",
+    "slug": "superette",
+    "description": "This Paris-meets-Passyunk wine bar is one of the most fun places to eat and drink in Philly right now. The zinc bar, natural light, and French market vibes make it feel like the perfect summer escape where everything should be paired with a glass of something orange and funky. It's the kind of place that makes you feel like you've come exactly where you were meant to be.",
+    "category": "restaurant",
+    "subcategory": "French",
+    "neighborhood": "Passyunk Square",
+    "price_level": 2,
+    "vibe": [
+      "trendy",
+      "cozy",
+      "lively",
+      "upscale",
+      "artsy"
+    ],
+    "address": "1538 E Passyunk Ave, Philadelphia, PA 19147",
+    "website_url": "superettephl.com",
+    "instagram": "superettephl",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1538+E+Passyunk+Ave%2C+Philadelphia%2C+PA+19147",
+    "tags": [
+      "wine bar",
+      "bottle shop",
+      "market",
+      "French",
+      "all-day dining",
+      "walk-ins welcome",
+      "outdoor seating",
+      "wheelchair accessible",
+      "natural wine"
+    ],
+    "id": "59",
+    "image_url": "",
+    "featured": false
+  },
+  {
+    "name": "Le Caveau",
+    "slug": "le-caveau",
+    "description": "This French natural wine bar in Bella Vista is a hidden gem with romantic, moody vibes and a 130-bottle wine list that's sustainably focused. The knowledgeable bartenders serve draft cocktails alongside French charcuterie and their famous French hot dog, all in a dimly lit space with exposed brick and tin ceilings. It's classy without being pretentious, making it perfect for an intimate night out.",
+    "category": "bar",
+    "subcategory": "Natural Wine Bar",
+    "neighborhood": "Bella Vista",
+    "price_level": 4,
+    "vibe": [
+      "romantic",
+      "cozy",
+      "upscale",
+      "trendy"
+    ],
+    "address": "614 S 7th St, Philadelphia, PA 19147",
+    "website_url": "lecaveaubar.com",
+    "instagram": "lecaveaubar",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=614+S+7th+St%2C+Philadelphia%2C+PA+19147",
+    "tags": [
+      "natural wine",
+      "French",
+      "hidden gem",
+      "charcuterie",
+      "draft cocktails",
+      "date night",
+      "speakeasy vibes",
+      "sustainable wine",
+      "walk-ins welcome"
+    ],
+    "id": "60",
+    "image_url": "",
+    "featured": false
   }
 ]

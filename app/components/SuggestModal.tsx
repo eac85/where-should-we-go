@@ -1,6 +1,24 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
+
+const LOADING_PHRASES = [
+  "Scouting the neighborhood...",
+  "Checking the vibe...",
+  "Asking the locals...",
+  "Reading the reviews...",
+  "Finding the best seat in the house...",
+  "Peeking at the menu...",
+  "Tracking down the hours...",
+  "Looking for parking nearby...",
+  "Checking if they take reservations...",
+  "Seeing what the regulars say...",
+  "Scrolling through the Instagram...",
+  "Getting the inside scoop...",
+  "Mapping the route...",
+  "Sniffing out the details...",
+  "Almost there...",
+];
 
 interface PlaceData {
   name: string;
@@ -187,17 +205,7 @@ export default function SuggestModal({ onClose }: { onClose: () => void }) {
 
         {/* Step: Loading */}
         {step === "loading" && (
-          <div style={{
-            textAlign: "center",
-            padding: "48px 0",
-            fontFamily: "var(--font-heading)",
-            fontSize: 13,
-            letterSpacing: "0.1em",
-            textTransform: "uppercase",
-            opacity: 0.5,
-          }}>
-            Looking up {placeName}...
-          </div>
+          <LoadingState placeName={placeName} />
         )}
 
         {/* Step: Edit */}
@@ -343,6 +351,48 @@ export default function SuggestModal({ onClose }: { onClose: () => void }) {
             </button>
           </div>
         )}
+      </div>
+    </div>
+  );
+}
+
+function LoadingState({ placeName }: { placeName: string }) {
+  const [index, setIndex] = useState(0);
+  const [fade, setFade] = useState(true);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setFade(false);
+      setTimeout(() => {
+        setIndex((prev) => (prev + 1) % LOADING_PHRASES.length);
+        setFade(true);
+      }, 600);
+    }, 2400);
+    return () => clearInterval(interval);
+  }, []);
+
+  return (
+    <div style={{ textAlign: "center", padding: "48px 0" }}>
+      <div style={{
+        fontFamily: "var(--font-heading)",
+        fontSize: 15,
+        fontWeight: 700,
+        letterSpacing: "0.06em",
+        textTransform: "uppercase",
+        marginBottom: 20,
+      }}>
+        {placeName}
+      </div>
+      <div
+        style={{
+          fontFamily: "var(--font-body)",
+          fontSize: 13,
+          opacity: fade ? 0.55 : 0,
+          transition: "opacity 0.3s ease",
+          minHeight: 20,
+        }}
+      >
+        {LOADING_PHRASES[index]}
       </div>
     </div>
   );
