@@ -1,0 +1,1550 @@
+[
+  {
+    "id": "1",
+    "name": "Zahav",
+    "slug": "zahav",
+    "description": "James Beard Award-winning Israeli restaurant from Michael Solomonov. The hummus alone is worth the trip — the whole lamb shoulder is legendary. Michelin Recommended.",
+    "category": "restaurant",
+    "subcategory": "Israeli",
+    "neighborhood": "Society Hill",
+    "price_level": 4,
+    "vibe": [
+      "upscale",
+      "romantic"
+    ],
+    "address": "237 St James Pl, Philadelphia, PA 19106",
+    "image_url": "",
+    "website_url": "https://www.zahavrestaurant.com",
+    "instagram": "zahavrestaurant",
+    "google_maps_url": "https://maps.google.com/?q=Zahav+Philadelphia",
+    "tags": [
+      "fine dining",
+      "reservations required",
+      "date night",
+      "michelin recommended"
+    ],
+    "featured": true
+  },
+  {
+    "id": "2",
+    "name": "Suraya",
+    "slug": "suraya",
+    "description": "Lebanese restaurant, garden, and market in Fishtown. Beautiful outdoor garden, incredible mezze, and a weekend brunch that draws crowds. Michelin Recommended.",
+    "category": "restaurant",
+    "subcategory": "Lebanese",
+    "neighborhood": "Fishtown",
+    "price_level": 3,
+    "vibe": [
+      "romantic",
+      "trendy",
+      "lively"
+    ],
+    "address": "1528 Frankford Ave, Philadelphia, PA 19125",
+    "image_url": "",
+    "website_url": "https://www.surayaphilly.com",
+    "instagram": "surayaphilly",
+    "google_maps_url": "https://maps.google.com/?q=Suraya+Philadelphia",
+    "tags": [
+      "outdoor seating",
+      "brunch",
+      "date night",
+      "garden",
+      "michelin recommended"
+    ],
+    "featured": true
+  },
+  {
+    "id": "3",
+    "name": "Vernick Food & Drink",
+    "slug": "vernick-food-and-drink",
+    "description": "Greg Vernick's polished-casual American spot in Rittenhouse. Known for the toast course and impeccable seasonal cooking. Michelin Recommended and 2026 James Beard semifinalist for Outstanding Restaurateur.",
+    "category": "restaurant",
+    "subcategory": "New American",
+    "neighborhood": "Rittenhouse",
+    "price_level": 4,
+    "vibe": [
+      "upscale",
+      "romantic"
+    ],
+    "address": "2031 Walnut St, Philadelphia, PA 19103",
+    "image_url": "",
+    "website_url": "https://www.vernickphilly.com",
+    "instagram": "vernickphilly",
+    "google_maps_url": "https://maps.google.com/?q=Vernick+Food+Drink+Philadelphia",
+    "tags": [
+      "fine dining",
+      "date night",
+      "reservations required",
+      "michelin recommended"
+    ],
+    "featured": true
+  },
+  {
+    "id": "4",
+    "name": "John's Roast Pork",
+    "slug": "johns-roast-pork",
+    "description": "No-frills stand slinging what many consider the best roast pork sandwich in Philly. Cash only, limited hours — get there early.",
+    "category": "restaurant",
+    "subcategory": "Sandwiches",
+    "neighborhood": "South Philly",
+    "price_level": 1,
+    "vibe": [
+      "casual"
+    ],
+    "address": "14 E Snyder Ave, Philadelphia, PA 19148",
+    "image_url": "",
+    "website_url": "",
+    "instagram": "",
+    "google_maps_url": "https://maps.google.com/?q=Johns+Roast+Pork+Philadelphia",
+    "tags": [
+      "cash only",
+      "outdoor seating",
+      "iconic"
+    ],
+    "featured": false
+  },
+  {
+    "id": "5",
+    "name": "Laser Wolf",
+    "slug": "laser-wolf",
+    "description": "Rooftop Israeli grill from the Zahav team. All-you-can-eat salatim followed by skewers cooked over charcoal. The views don't hurt either. Michelin Recommended.",
+    "category": "restaurant",
+    "subcategory": "Israeli",
+    "neighborhood": "Fishtown",
+    "price_level": 3,
+    "vibe": [
+      "lively",
+      "trendy"
+    ],
+    "address": "1301 N Howard St, Philadelphia, PA 19122",
+    "image_url": "",
+    "website_url": "https://www.laserwolfphilly.com",
+    "instagram": "laserwolfphilly",
+    "google_maps_url": "https://maps.google.com/?q=Laser+Wolf+Philadelphia",
+    "tags": [
+      "rooftop",
+      "outdoor seating",
+      "group friendly",
+      "michelin recommended"
+    ],
+    "featured": true
+  },
+  {
+    "id": "6",
+    "name": "Bok Bar",
+    "slug": "bok-bar",
+    "description": "Seasonal rooftop bar on top of the old Bok vocational school. Cheap drinks, incredible skyline views, and one of the best sunset spots in the city. Shares the 8th floor with Irwin's.",
+    "category": "bar",
+    "subcategory": "Rooftop Bar",
+    "neighborhood": "South Philly",
+    "price_level": 2,
+    "vibe": [
+      "chill",
+      "trendy",
+      "lively"
+    ],
+    "address": "1901 S 9th St, Philadelphia, PA 19148",
+    "image_url": "",
+    "website_url": "https://www.bokbar.com",
+    "instagram": "bokbar",
+    "google_maps_url": "https://maps.google.com/?q=Bok+Bar+Philadelphia",
+    "tags": [
+      "rooftop",
+      "outdoor seating",
+      "seasonal",
+      "dog friendly"
+    ],
+    "featured": true
+  },
+  {
+    "id": "7",
+    "name": "Hop Sing Laundromat",
+    "slug": "hop-sing-laundromat",
+    "description": "Philly's most exclusive speakeasy. No phones, no photos, strict dress code. World-class cocktails behind an unmarked door in Chinatown.",
+    "category": "bar",
+    "subcategory": "Speakeasy",
+    "neighborhood": "Chinatown",
+    "price_level": 3,
+    "vibe": [
+      "upscale",
+      "romantic"
+    ],
+    "address": "1029 Race St, Philadelphia, PA 19107",
+    "image_url": "",
+    "website_url": "",
+    "instagram": "",
+    "google_maps_url": "https://maps.google.com/?q=Hop+Sing+Laundromat+Philadelphia",
+    "tags": [
+      "speakeasy",
+      "cocktails",
+      "no phones",
+      "dress code"
+    ],
+    "featured": true
+  },
+  {
+    "id": "8",
+    "name": "Dirty Franks",
+    "slug": "dirty-franks",
+    "description": "Legendary dive bar in Center City. Cheap PBR, a jukebox, and a crowd that ranges from artists to attorneys. A Philly institution since 1933.",
+    "category": "bar",
+    "subcategory": "Dive Bar",
+    "neighborhood": "Center City",
+    "price_level": 1,
+    "vibe": [
+      "casual",
+      "lively",
+      "artsy"
+    ],
+    "address": "347 S 13th St, Philadelphia, PA 19107",
+    "image_url": "",
+    "website_url": "",
+    "instagram": "",
+    "google_maps_url": "https://maps.google.com/?q=Dirty+Franks+Philadelphia",
+    "tags": [
+      "dive bar",
+      "cash only",
+      "iconic",
+      "late night"
+    ],
+    "featured": false
+  },
+  {
+    "id": "9",
+    "name": "Philadelphia Museum of Art",
+    "slug": "philadelphia-museum-of-art",
+    "description": "World-class art collection in one of the most iconic buildings in the city. Run the Rocky steps, then spend hours inside with everything from medieval armor to Duchamp.",
+    "category": "cultural",
+    "subcategory": "Museum",
+    "neighborhood": "Fairmount",
+    "price_level": 2,
+    "vibe": [
+      "artsy",
+      "historic"
+    ],
+    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130",
+    "image_url": "",
+    "website_url": "https://philamuseum.org",
+    "instagram": "philamuseum",
+    "google_maps_url": "https://maps.google.com/?q=Philadelphia+Museum+of+Art",
+    "tags": [
+      "museum",
+      "iconic",
+      "family-friendly",
+      "rainy day"
+    ],
+    "featured": true
+  },
+  {
+    "id": "10",
+    "name": "The Barnes Foundation",
+    "slug": "the-barnes-foundation",
+    "description": "One of the world's greatest collections of Impressionist and Post-Impressionist art. The gallery arrangement is as much art as the works themselves.",
+    "category": "cultural",
+    "subcategory": "Museum",
+    "neighborhood": "Fairmount",
+    "price_level": 2,
+    "vibe": [
+      "artsy",
+      "chill"
+    ],
+    "address": "2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130",
+    "image_url": "",
+    "website_url": "https://www.barnesfoundation.org",
+    "instagram": "barnesfoundation",
+    "google_maps_url": "https://maps.google.com/?q=Barnes+Foundation+Philadelphia",
+    "tags": [
+      "museum",
+      "art",
+      "rainy day"
+    ],
+    "featured": false
+  },
+  {
+    "id": "11",
+    "name": "Wissahickon Valley Park",
+    "slug": "wissahickon-valley-park",
+    "description": "1,800 acres of forested trails along the Wissahickon Creek. Feels like you left the city entirely. Forbidden Drive is the main artery — flat, scenic, perfect for a long walk.",
+    "category": "outdoor",
+    "subcategory": "Park / Trail",
+    "neighborhood": "Roxborough",
+    "price_level": 1,
+    "vibe": [
+      "chill",
+      "romantic"
+    ],
+    "address": "Forbidden Drive, Philadelphia, PA 19128",
+    "image_url": "",
+    "website_url": "https://www.fow.org",
+    "instagram": "friendsofwissahickon",
+    "google_maps_url": "https://maps.google.com/?q=Wissahickon+Valley+Park",
+    "tags": [
+      "hiking",
+      "dog friendly",
+      "nature",
+      "free"
+    ],
+    "featured": true
+  },
+  {
+    "id": "12",
+    "name": "Spruce Street Harbor Park",
+    "slug": "spruce-street-harbor-park",
+    "description": "Seasonal waterfront park with hammocks, floating gardens, food vendors, and colorful lights. Perfect for a casual warm-weather hang on the Delaware.",
+    "category": "outdoor",
+    "subcategory": "Waterfront",
+    "neighborhood": "Society Hill",
+    "price_level": 2,
+    "vibe": [
+      "chill",
+      "romantic",
+      "lively"
+    ],
+    "address": "301 S Christopher Columbus Blvd, Philadelphia, PA 19106",
+    "image_url": "",
+    "website_url": "https://www.delawareriverwaterfront.com",
+    "instagram": "dvrwaterfront",
+    "google_maps_url": "https://maps.google.com/?q=Spruce+Street+Harbor+Park",
+    "tags": [
+      "seasonal",
+      "outdoor seating",
+      "waterfront",
+      "family-friendly"
+    ],
+    "featured": true
+  },
+  {
+    "id": "13",
+    "name": "Rittenhouse Square",
+    "slug": "rittenhouse-square",
+    "description": "The crown jewel of Philly parks. People-watch from a bench, grab coffee from a nearby café, or just sit in the grass on a nice day.",
+    "category": "outdoor",
+    "subcategory": "Park",
+    "neighborhood": "Rittenhouse",
+    "price_level": 1,
+    "vibe": [
+      "chill",
+      "romantic"
+    ],
+    "address": "210 W Rittenhouse Square, Philadelphia, PA 19103",
+    "image_url": "",
+    "website_url": "",
+    "instagram": "",
+    "google_maps_url": "https://maps.google.com/?q=Rittenhouse+Square+Philadelphia",
+    "tags": [
+      "free",
+      "dog friendly",
+      "people watching",
+      "iconic"
+    ],
+    "featured": false
+  },
+  {
+    "id": "14",
+    "name": "Reading Terminal Market",
+    "slug": "reading-terminal-market",
+    "description": "Historic indoor farmers market with 80+ vendors. DiNic's roast pork, Beiler's donuts, Bassett's ice cream — come hungry, leave happy.",
+    "category": "restaurant",
+    "subcategory": "Food Hall",
+    "neighborhood": "Center City",
+    "price_level": 2,
+    "vibe": [
+      "lively",
+      "casual",
+      "family-friendly"
+    ],
+    "address": "51 N 12th St, Philadelphia, PA 19107",
+    "image_url": "",
+    "website_url": "https://readingterminalmarket.org",
+    "instagram": "readingterminal",
+    "google_maps_url": "https://maps.google.com/?q=Reading+Terminal+Market",
+    "tags": [
+      "food hall",
+      "iconic",
+      "family-friendly",
+      "indoor"
+    ],
+    "featured": true
+  },
+  {
+    "id": "15",
+    "name": "Herman's Coffee",
+    "slug": "hermans-coffee",
+    "description": "Cult-favorite coffee roaster, specialty market, and Friday/Saturday cocktail bar in a converted auto repair shop. In-house roasted beans, espresso tonics, imported tinned fish, natural wine, and merch by local artists. Best of Philly winner — twice.",
+    "category": "restaurant",
+    "subcategory": "Coffee Shop & Market",
+    "neighborhood": "Pennsport",
+    "price_level": 2,
+    "vibe": [
+      "trendy",
+      "chill",
+      "artsy"
+    ],
+    "address": "1313 S 3rd St, Philadelphia, PA 19147",
+    "image_url": "",
+    "website_url": "https://www.hermanscoffee.com",
+    "instagram": "hermanscoffee",
+    "google_maps_url": "https://maps.google.com/?q=Hermans+Coffee+Philadelphia",
+    "tags": [
+      "coffee",
+      "market",
+      "cocktails",
+      "outdoor seating",
+      "food trucks"
+    ],
+    "featured": true
+  },
+  {
+    "id": "16",
+    "name": "Laurel",
+    "slug": "laurel",
+    "description": "Intimate BYOB tasting menu in East Passyunk from chef Nicholas Elmi. Eight courses of refined French-inspired cooking in a room that seats about 22. Michelin Recommended.",
+    "category": "restaurant",
+    "subcategory": "BYOB",
+    "neighborhood": "East Passyunk",
+    "price_level": 4,
+    "vibe": [
+      "upscale",
+      "romantic"
+    ],
+    "address": "1617 E Passyunk Ave, Philadelphia, PA 19148",
+    "image_url": "",
+    "website_url": "https://www.restaurantlaurel.com",
+    "instagram": "restaurantlaurel",
+    "google_maps_url": "https://maps.google.com/?q=Laurel+Restaurant+Philadelphia",
+    "tags": [
+      "BYOB",
+      "tasting menu",
+      "reservations required",
+      "date night",
+      "michelin recommended"
+    ],
+    "featured": true
+  },
+  {
+    "id": "17",
+    "name": "Tired Hands Brewing",
+    "slug": "tired-hands-brewing",
+    "description": "Cult-favorite brewery known for hazy IPAs and fruited sours. The Fishtown Fermentaria has a great taproom vibe.",
+    "category": "bar",
+    "subcategory": "Brewery",
+    "neighborhood": "Fishtown",
+    "price_level": 2,
+    "vibe": [
+      "chill",
+      "trendy"
+    ],
+    "address": "1525 Frankford Ave, Philadelphia, PA 19125",
+    "image_url": "",
+    "website_url": "https://www.tiredhandsbrewing.com",
+    "instagram": "tiredhandsbrewing",
+    "google_maps_url": "https://maps.google.com/?q=Tired+Hands+Fishtown",
+    "tags": [
+      "craft beer",
+      "taproom"
+    ],
+    "featured": false
+  },
+  {
+    "id": "18",
+    "name": "R&D Cocktail Bar",
+    "slug": "r-and-d-cocktail-bar",
+    "description": "Inventive cocktail bar in Northern Liberties. Science-meets-mixology with a rotating menu of creative drinks and a cozy back patio.",
+    "category": "bar",
+    "subcategory": "Cocktail Bar",
+    "neighborhood": "Northern Liberties",
+    "price_level": 3,
+    "vibe": [
+      "trendy",
+      "cozy"
+    ],
+    "address": "1021 N 2nd St, Philadelphia, PA 19123",
+    "image_url": "",
+    "website_url": "",
+    "instagram": "rndcocktails",
+    "google_maps_url": "https://maps.google.com/?q=R%26D+Cocktail+Bar+Philadelphia",
+    "tags": [
+      "cocktails",
+      "outdoor seating",
+      "date night"
+    ],
+    "featured": false
+  },
+  {
+    "id": "19",
+    "name": "Eastern State Penitentiary",
+    "slug": "eastern-state-penitentiary",
+    "description": "Crumbling, atmospheric historic prison turned museum. Once held Al Capone. The audio tour is excellent — and it's genuinely eerie.",
+    "category": "cultural",
+    "subcategory": "Historic Site",
+    "neighborhood": "Fairmount",
+    "price_level": 2,
+    "vibe": [
+      "historic",
+      "artsy"
+    ],
+    "address": "2027 Fairmount Ave, Philadelphia, PA 19130",
+    "image_url": "",
+    "website_url": "https://www.easternstate.org",
+    "instagram": "easternstate",
+    "google_maps_url": "https://maps.google.com/?q=Eastern+State+Penitentiary",
+    "tags": [
+      "museum",
+      "historic",
+      "haunted",
+      "rainy day"
+    ],
+    "featured": true
+  },
+  {
+    "id": "20",
+    "name": "Schuylkill River Trail",
+    "slug": "schuylkill-river-trail",
+    "description": "Paved trail running along the Schuylkill River. Great for running, biking, or a sunset walk with skyline views. Connects to Fairmount Park.",
+    "category": "outdoor",
+    "subcategory": "Trail",
+    "neighborhood": "Center City",
+    "price_level": 1,
+    "vibe": [
+      "chill"
+    ],
+    "address": "Schuylkill River Trail, Philadelphia, PA",
+    "image_url": "",
+    "website_url": "https://schuylkillbanks.org",
+    "instagram": "schuylkillbanks",
+    "google_maps_url": "https://maps.google.com/?q=Schuylkill+River+Trail+Philadelphia",
+    "tags": [
+      "biking",
+      "running",
+      "free",
+      "dog friendly",
+      "sunset"
+    ],
+    "featured": false
+  },
+  {
+    "id": "21",
+    "name": "Vedge",
+    "slug": "vedge",
+    "description": "Upscale vegan restaurant in a gorgeous old brownstone. Even die-hard carnivores leave impressed. The rutabaga fondue is iconic. Michelin Recommended.",
+    "category": "restaurant",
+    "subcategory": "Vegan",
+    "neighborhood": "Center City",
+    "price_level": 3,
+    "vibe": [
+      "upscale",
+      "romantic",
+      "trendy"
+    ],
+    "address": "1221 Locust St, Philadelphia, PA 19107",
+    "image_url": "",
+    "website_url": "https://www.vedgerestaurant.com",
+    "instagram": "vedgerestaurant",
+    "google_maps_url": "https://maps.google.com/?q=Vedge+Philadelphia",
+    "tags": [
+      "vegan",
+      "date night",
+      "reservations recommended",
+      "michelin recommended"
+    ],
+    "featured": true
+  },
+  {
+    "id": "22",
+    "name": "Pat's King of Steaks",
+    "slug": "pats-king-of-steaks",
+    "description": "The original Philly cheesesteak since 1930. Outdoor-only, cash-friendly, and open 24/7. Order \"whiz wit\" like a local.",
+    "category": "restaurant",
+    "subcategory": "Cheesesteak",
+    "neighborhood": "South Philly",
+    "price_level": 1,
+    "vibe": [
+      "casual",
+      "lively"
+    ],
+    "address": "1237 E Passyunk Ave, Philadelphia, PA 19147",
+    "image_url": "",
+    "website_url": "https://www.patskingofsteaks.com",
+    "instagram": "patskingofsteaks",
+    "google_maps_url": "https://maps.google.com/?q=Pats+King+of+Steaks+Philadelphia",
+    "tags": [
+      "cheesesteak",
+      "iconic",
+      "late night",
+      "outdoor seating"
+    ],
+    "featured": false
+  },
+  {
+    "id": "23",
+    "name": "Magic Gardens",
+    "slug": "magic-gardens",
+    "description": "Isaiah Zagar's immersive mosaic art environment spanning half a city block on South Street. A dazzling labyrinth of glass, tile, and found objects.",
+    "category": "cultural",
+    "subcategory": "Art Installation",
+    "neighborhood": "Bella Vista",
+    "price_level": 2,
+    "vibe": [
+      "artsy"
+    ],
+    "address": "1020 South St, Philadelphia, PA 19147",
+    "image_url": "",
+    "website_url": "https://www.phillymagicgardens.org",
+    "instagram": "phillymagicgardens",
+    "google_maps_url": "https://maps.google.com/?q=Philadelphia+Magic+Gardens",
+    "tags": [
+      "art",
+      "outdoor",
+      "iconic",
+      "photo-worthy"
+    ],
+    "featured": true
+  },
+  {
+    "id": "24",
+    "name": "Monk's Cafe",
+    "slug": "monks-cafe",
+    "description": "Belgian beer bar with one of the deepest beer lists on the East Coast. Mussels and frites are the move. A Rittenhouse institution.",
+    "category": "bar",
+    "subcategory": "Beer Bar",
+    "neighborhood": "Rittenhouse",
+    "price_level": 2,
+    "vibe": [
+      "cozy",
+      "casual"
+    ],
+    "address": "264 S 16th St, Philadelphia, PA 19102",
+    "image_url": "",
+    "website_url": "https://www.monkscafe.com",
+    "instagram": "monkscafe",
+    "google_maps_url": "https://maps.google.com/?q=Monks+Cafe+Philadelphia",
+    "tags": [
+      "craft beer",
+      "belgian",
+      "food"
+    ],
+    "featured": false
+  },
+  {
+    "id": "25",
+    "name": "Longwood Gardens",
+    "slug": "longwood-gardens",
+    "description": "Spectacular botanical gardens just outside the city in Kennett Square. Massive conservatory, seasonal displays, fountain shows, and acres of manicured grounds.",
+    "category": "outdoor",
+    "subcategory": "Garden",
+    "neighborhood": "Kennett Square (Day Trip)",
+    "price_level": 2,
+    "vibe": [
+      "romantic",
+      "chill",
+      "family-friendly"
+    ],
+    "address": "1001 Longwood Rd, Kennett Square, PA 19348",
+    "image_url": "",
+    "website_url": "https://longwoodgardens.org",
+    "instagram": "longwoodgardens",
+    "google_maps_url": "https://maps.google.com/?q=Longwood+Gardens",
+    "tags": [
+      "garden",
+      "family-friendly",
+      "seasonal",
+      "day trip"
+    ],
+    "featured": true
+  },
+  {
+    "id": "26",
+    "name": "The Bourse Food Hall",
+    "slug": "the-bourse-food-hall",
+    "description": "Beautifully renovated food hall in Old City with a curated mix of local vendors. Great lunch spot when exploring the historic district.",
+    "category": "restaurant",
+    "subcategory": "Food Hall",
+    "neighborhood": "Old City",
+    "price_level": 2,
+    "vibe": [
+      "casual",
+      "lively"
+    ],
+    "address": "111 S Independence Mall E, Philadelphia, PA 19106",
+    "image_url": "",
+    "website_url": "https://www.theboursephilly.com",
+    "instagram": "theboursephilly",
+    "google_maps_url": "https://maps.google.com/?q=The+Bourse+Philadelphia",
+    "tags": [
+      "food hall",
+      "family-friendly",
+      "indoor"
+    ],
+    "featured": false
+  },
+  {
+    "id": "27",
+    "name": "The Mütter Museum",
+    "slug": "the-mutter-museum",
+    "description": "Fascinating (and sometimes unsettling) museum of medical oddities. Skulls, specimens, and the famous soap lady. Not for the squeamish.",
+    "category": "cultural",
+    "subcategory": "Museum",
+    "neighborhood": "Center City",
+    "price_level": 2,
+    "vibe": [
+      "artsy",
+      "historic"
+    ],
+    "address": "19 S 22nd St, Philadelphia, PA 19103",
+    "image_url": "",
+    "website_url": "https://muttermuseum.org",
+    "instagram": "muttermuseum",
+    "google_maps_url": "https://maps.google.com/?q=Mutter+Museum+Philadelphia",
+    "tags": [
+      "museum",
+      "unique",
+      "rainy day"
+    ],
+    "featured": false
+  },
+  {
+    "id": "28",
+    "name": "Friday Saturday Sunday",
+    "slug": "friday-saturday-sunday",
+    "description": "Rittenhouse cocktail bar and restaurant with a Michelin star. Creative cocktails downstairs, a refined multicourse menu upstairs from chef Chad Williams. One of Philly's first three Michelin-starred restaurants.",
+    "category": "date_spot",
+    "subcategory": "Cocktail Bar & Restaurant",
+    "neighborhood": "Rittenhouse",
+    "price_level": 4,
+    "vibe": [
+      "romantic",
+      "trendy",
+      "cozy"
+    ],
+    "address": "261 S 21st St, Philadelphia, PA 19103",
+    "image_url": "",
+    "website_url": "https://www.fridaysaturdaysunday.com",
+    "instagram": "faboreso",
+    "google_maps_url": "https://maps.google.com/?q=Friday+Saturday+Sunday+Philadelphia",
+    "tags": [
+      "cocktails",
+      "date night",
+      "michelin star",
+      "tasting menu"
+    ],
+    "featured": true
+  },
+  {
+    "id": "29",
+    "name": "Bartram's Garden",
+    "slug": "bartrams-garden",
+    "description": "America's oldest living botanical garden on the banks of the Schuylkill. Free to visit, with community events, kayaking, and beautiful river views.",
+    "category": "outdoor",
+    "subcategory": "Garden",
+    "neighborhood": "West Philly",
+    "price_level": 1,
+    "vibe": [
+      "chill",
+      "historic"
+    ],
+    "address": "5400 Lindbergh Blvd, Philadelphia, PA 19143",
+    "image_url": "",
+    "website_url": "https://www.bartramsgarden.org",
+    "instagram": "bartramsgarden",
+    "google_maps_url": "https://maps.google.com/?q=Bartrams+Garden+Philadelphia",
+    "tags": [
+      "free",
+      "garden",
+      "kayaking",
+      "historic",
+      "nature"
+    ],
+    "featured": false
+  },
+  {
+    "id": "30",
+    "name": "a]kitchen + bar",
+    "slug": "a-kitchen-and-bar",
+    "description": "Trendy spot in the AKA Rittenhouse hotel. Great for a date — excellent cocktails, seasonal plates, and a sophisticated-but-relaxed vibe.",
+    "category": "date_spot",
+    "subcategory": "New American",
+    "neighborhood": "Rittenhouse",
+    "price_level": 3,
+    "vibe": [
+      "romantic",
+      "trendy",
+      "upscale"
+    ],
+    "address": "135 S 18th St, Philadelphia, PA 19103",
+    "image_url": "",
+    "website_url": "https://www.akitchenandbar.com",
+    "instagram": "akitchenandbar",
+    "google_maps_url": "https://maps.google.com/?q=a+kitchen+bar+Philadelphia",
+    "tags": [
+      "date night",
+      "cocktails",
+      "hotel bar"
+    ],
+    "featured": false
+  },
+  {
+    "id": "31",
+    "name": "Sonny's Cocktail Joint",
+    "slug": "sonnys-cocktail-joint",
+    "description": "Come-as-you-are cocktail bar on South Street with a killer backyard, pool table, and draft cocktails including sub-zero freezer mixes. Bar pies, smash burgers, and the legendary chicken-fried shrimp. Best of Philly winner for Best Comeback — survived a fire and a flood and keeps coming back stronger.",
+    "category": "bar",
+    "subcategory": "Cocktail Bar",
+    "neighborhood": "Graduate Hospital",
+    "price_level": 2,
+    "vibe": [
+      "casual",
+      "lively",
+      "trendy"
+    ],
+    "address": "1508 South St, Philadelphia, PA 19146",
+    "image_url": "",
+    "website_url": "https://www.sonnyscocktailjoint.com",
+    "instagram": "sonnyscocktailjoint",
+    "google_maps_url": "https://maps.google.com/?q=Sonnys+Cocktail+Joint+Philadelphia",
+    "tags": [
+      "cocktails",
+      "outdoor seating",
+      "pool table",
+      "late night",
+      "bar food",
+      "quizzo"
+    ],
+    "featured": true
+  },
+  {
+    "id": "32",
+    "name": "Grace & Proper",
+    "slug": "grace-and-proper",
+    "description": "Vintage corner EuroBar in the Italian Market from the Happy Monday Hospitality crew. Portuguese-inspired wine bar with bifana sandwiches, mortadella boards, bacalao, and towering piles of meat and truffle chips. Walk-ins only, no reservations — like a European corner bar should be.",
+    "category": "bar",
+    "subcategory": "Wine Bar",
+    "neighborhood": "Bella Vista",
+    "price_level": 2,
+    "vibe": [
+      "trendy",
+      "cozy",
+      "romantic"
+    ],
+    "address": "941 S 8th St, Philadelphia, PA 19147",
+    "image_url": "",
+    "website_url": "https://www.graceandproper.com",
+    "instagram": "graceandproperphilly",
+    "google_maps_url": "https://maps.google.com/?q=Grace+and+Proper+Philadelphia",
+    "tags": [
+      "wine bar",
+      "walk-ins only",
+      "european",
+      "portuguese",
+      "italian market",
+      "date night"
+    ],
+    "featured": true
+  },
+  {
+    "id": "33",
+    "name": "Kalaya",
+    "slug": "kalaya",
+    "description": "Chef Nok Suntaranon's fiery southern Thai restaurant — Esquire's Best New Restaurant in America, James Beard Best Chef: Mid-Atlantic winner, and Michelin Recommended. The shaw muang dumplings are iconic. No pad thai on the menu, and you won't miss it.",
+    "category": "restaurant",
+    "subcategory": "Thai",
+    "neighborhood": "Fishtown",
+    "price_level": 3,
+    "vibe": [
+      "trendy",
+      "romantic",
+      "lively"
+    ],
+    "address": "4 W Palmer St, Philadelphia, PA 19122",
+    "image_url": "",
+    "website_url": "https://www.kalaya.net",
+    "instagram": "kalayaphilly",
+    "google_maps_url": "https://maps.google.com/?q=Kalaya+Fishtown+Philadelphia",
+    "tags": [
+      "reservations required",
+      "date night",
+      "spicy",
+      "james beard",
+      "michelin recommended"
+    ],
+    "featured": true
+  },
+  {
+    "id": "34",
+    "name": "Her Place Supper Club",
+    "slug": "her-place-supper-club",
+    "description": "Amanda Shulman's Michelin-starred supper club — half dinner party, half restaurant. The multicourse set menu changes every two weeks and everyone is served at the same time. Reservations drop on the third Sunday of each month and go fast.",
+    "category": "restaurant",
+    "subcategory": "Tasting Menu",
+    "neighborhood": "Rittenhouse",
+    "price_level": 4,
+    "vibe": [
+      "upscale",
+      "romantic",
+      "cozy"
+    ],
+    "address": "1740 Sansom St, Philadelphia, PA 19103",
+    "image_url": "",
+    "website_url": "https://www.herplacephilly.com",
+    "instagram": "herplacesupperclub",
+    "google_maps_url": "https://maps.google.com/?q=Her+Place+Supper+Club+Philadelphia",
+    "tags": [
+      "michelin star",
+      "tasting menu",
+      "reservations required",
+      "date night",
+      "james beard"
+    ],
+    "featured": true
+  },
+  {
+    "id": "35",
+    "name": "Provenance",
+    "slug": "provenance",
+    "description": "Chef Nicholas Bazik's Michelin-starred tasting menu — one of Philly's first three restaurants to earn the honor. Reservations open the first of each month and the waitlist runs about 50 deep. Precision cooking with high-wire ambition in a small, focused room.",
+    "category": "restaurant",
+    "subcategory": "Tasting Menu",
+    "neighborhood": "East Passyunk",
+    "price_level": 4,
+    "vibe": [
+      "upscale",
+      "romantic"
+    ],
+    "address": "1529 S 11th St, Philadelphia, PA 19147",
+    "image_url": "",
+    "website_url": "https://www.provenancephilly.com",
+    "instagram": "provenancephilly",
+    "google_maps_url": "https://maps.google.com/?q=Provenance+Philadelphia",
+    "tags": [
+      "michelin star",
+      "tasting menu",
+      "reservations required",
+      "date night"
+    ],
+    "featured": true
+  },
+  {
+    "id": "36",
+    "name": "Middle Child",
+    "slug": "middle-child",
+    "description": "The sandwich shop that became a Philly institution. Inspired by old-school delis, Jewish diners, and Italian hoagie shops. House-corned-beef sandwiches, blueberry-jam turkey subs, and vegan hoagies that actually slap. Two locations — the original in Wash West and the all-day Clubhouse in Fishtown.",
+    "category": "restaurant",
+    "subcategory": "Sandwiches & Deli",
+    "neighborhood": "Washington Square West",
+    "price_level": 2,
+    "vibe": [
+      "casual",
+      "lively",
+      "trendy"
+    ],
+    "address": "248 S 11th St, Philadelphia, PA 19107",
+    "image_url": "",
+    "website_url": "https://middlechildphilly.com",
+    "instagram": "middlechildphiladelphia",
+    "google_maps_url": "https://maps.google.com/?q=Middle+Child+Philadelphia",
+    "tags": [
+      "sandwiches",
+      "brunch",
+      "vegan options",
+      "iconic"
+    ],
+    "featured": true
+  },
+  {
+    "id": "37",
+    "name": "Middle Child Clubhouse",
+    "slug": "middle-child-clubhouse",
+    "description": "Middle Child's all-day big sibling in Fishtown. Breakfast, lunch, and a full dinner program with a Noma-alum running the night kitchen. The brick chicken is a must. Full bar with great cocktails.",
+    "category": "restaurant",
+    "subcategory": "New American",
+    "neighborhood": "Fishtown",
+    "price_level": 2,
+    "vibe": [
+      "lively",
+      "trendy",
+      "casual"
+    ],
+    "address": "1232 N Front St, Philadelphia, PA 19122",
+    "image_url": "",
+    "website_url": "https://middlechildphilly.com/clubhouse",
+    "instagram": "middlechildphiladelphia",
+    "google_maps_url": "https://maps.google.com/?q=Middle+Child+Clubhouse+Philadelphia",
+    "tags": [
+      "brunch",
+      "dinner",
+      "cocktails",
+      "group friendly"
+    ],
+    "featured": false
+  },
+  {
+    "id": "38",
+    "name": "Irwin's",
+    "slug": "irwins",
+    "description": "Modern Sicilian restaurant on the 8th floor of the Bok Building, named one of America's best new restaurants by both Esquire and Bon Appétit. Chef Michael Vincent Ferreri's handmade pasta, seasonal seafood, and natural wine list are stellar. The rooftop terrace has skyline views. Book Salvatore's Counter for a 10-course chef's experience at just 4 seats.",
+    "category": "restaurant",
+    "subcategory": "Sicilian",
+    "neighborhood": "South Philly",
+    "price_level": 3,
+    "vibe": [
+      "romantic",
+      "trendy",
+      "upscale"
+    ],
+    "address": "800 Mifflin St, Philadelphia, PA 19148",
+    "image_url": "",
+    "website_url": "https://www.irwinsupstairs.com",
+    "instagram": "irwinsupstairs",
+    "google_maps_url": "https://maps.google.com/?q=Irwins+Bok+Building+Philadelphia",
+    "tags": [
+      "rooftop",
+      "date night",
+      "reservations recommended",
+      "natural wine",
+      "chefs counter"
+    ],
+    "featured": true
+  },
+  {
+    "id": "39",
+    "name": "Forsythia",
+    "slug": "forsythia",
+    "description": "Chef Christopher Kearse's Old City French bistro — vibrant, creative, and Michelin Recommended. Tempura frog legs with saffron aioli caught the Michelin inspectors' attention. Seasonal ingredients meet uninhibited French technique.",
+    "category": "restaurant",
+    "subcategory": "French",
+    "neighborhood": "Old City",
+    "price_level": 3,
+    "vibe": [
+      "romantic",
+      "trendy",
+      "upscale"
+    ],
+    "address": "233 Chestnut St, Philadelphia, PA 19106",
+    "image_url": "",
+    "website_url": "https://www.forsythiaphilly.com",
+    "instagram": "forsythiaphilly",
+    "google_maps_url": "https://maps.google.com/?q=Forsythia+Philadelphia",
+    "tags": [
+      "date night",
+      "french",
+      "michelin recommended",
+      "reservations recommended"
+    ],
+    "featured": true
+  },
+  {
+    "id": "40",
+    "name": "Emilia",
+    "slug": "emilia",
+    "description": "Greg Vernick and chef Meri Medoway's new Italian-inspired spot in Kensington. Handmade pastas like ragù bianco rigatoni, crispy veal, and an all-Italian wine and amari list. Casual neighborhood energy with serious cooking.",
+    "category": "restaurant",
+    "subcategory": "Italian",
+    "neighborhood": "Kensington",
+    "price_level": 3,
+    "vibe": [
+      "casual",
+      "trendy",
+      "cozy"
+    ],
+    "address": "Kensington, Philadelphia, PA",
+    "image_url": "",
+    "website_url": "",
+    "instagram": "",
+    "google_maps_url": "https://maps.google.com/?q=Emilia+Kensington+Philadelphia",
+    "tags": [
+      "pasta",
+      "italian",
+      "new opening 2026",
+      "sharing plates"
+    ],
+    "featured": false
+  },
+  {
+    "id": "41",
+    "name": "Dancerobot",
+    "slug": "dancerobot",
+    "description": "Jesse Ito (of Royal Sushi fame, 8x James Beard nominee) and chef Justin Bacharach's high-energy Japanese restaurant. Katsu curry, playful cocktails, quality sake, and strong zero-proof options. The fun, loud alternative to an omakase.",
+    "category": "restaurant",
+    "subcategory": "Japanese",
+    "neighborhood": "Center City",
+    "price_level": 3,
+    "vibe": [
+      "lively",
+      "trendy"
+    ],
+    "address": "Center City, Philadelphia, PA",
+    "image_url": "",
+    "website_url": "",
+    "instagram": "dancerobot.philly",
+    "google_maps_url": "https://maps.google.com/?q=Dancerobot+Philadelphia",
+    "tags": [
+      "japanese",
+      "cocktails",
+      "sake",
+      "group friendly"
+    ],
+    "featured": false
+  },
+  {
+    "id": "42",
+    "name": "Uchi",
+    "slug": "uchi",
+    "description": "Tyson Cole's acclaimed Japanese restaurant chain lands in Philly. Non-traditional sushi and creative Japanese dishes in a cozy, intimate setting. Book via the restaurant's website directly.",
+    "category": "restaurant",
+    "subcategory": "Japanese",
+    "neighborhood": "Center City",
+    "price_level": 4,
+    "vibe": [
+      "upscale",
+      "trendy"
+    ],
+    "address": "Center City, Philadelphia, PA",
+    "image_url": "",
+    "website_url": "https://www.uchiphiladelphia.com",
+    "instagram": "uchiphiladelphia",
+    "google_maps_url": "https://maps.google.com/?q=Uchi+Philadelphia",
+    "tags": [
+      "sushi",
+      "japanese",
+      "reservations required",
+      "date night"
+    ],
+    "featured": false
+  },
+  {
+    "id": "43",
+    "name": "The Bourse Food Hall",
+    "slug": "the-bourse-food-hall",
+    "description": "Beautifully renovated food hall in Old City with a curated mix of local vendors. Great lunch spot when exploring the historic district.",
+    "category": "restaurant",
+    "subcategory": "Food Hall",
+    "neighborhood": "Old City",
+    "price_level": 2,
+    "vibe": [
+      "casual",
+      "lively"
+    ],
+    "address": "111 S Independence Mall E, Philadelphia, PA 19106",
+    "image_url": "",
+    "website_url": "https://www.theboursephilly.com",
+    "instagram": "theboursephilly",
+    "google_maps_url": "https://maps.google.com/?q=The+Bourse+Philadelphia",
+    "tags": [
+      "food hall",
+      "family-friendly",
+      "indoor"
+    ],
+    "featured": false
+  },
+  {
+    "id": "44",
+    "name": "Cry Baby Pasta",
+    "slug": "cry-baby-pasta",
+    "description": "Colorful, rock-and-roll-themed Italian spot from the Bridget Foy's family and the ex-Koo Zee Doo kitchen team. Everything is made from scratch — the tortellini in pork-and-chicken brodo is crystalline perfection, and the rigatoni vodka sauce with chicken and pancetta ('chicken riggies') is a cult favorite. Nothing over $22, deep Italian wine list on tap, aperitivo hour 4–6pm at the bar and outdoor café.",
+    "category": "restaurant",
+    "subcategory": "Italian",
+    "neighborhood": "Queen Village",
+    "price_level": 2,
+    "vibe": [
+      "casual",
+      "lively",
+      "trendy"
+    ],
+    "address": "627 S 3rd St, Philadelphia, PA 19147",
+    "image_url": "",
+    "website_url": "https://crybabypasta.com",
+    "instagram": "crybabypasta",
+    "google_maps_url": "https://maps.google.com/?q=Cry+Baby+Pasta+Philadelphia",
+    "tags": [
+      "pasta",
+      "italian",
+      "date night",
+      "outdoor seating",
+      "aperitivo",
+      "group friendly"
+    ],
+    "featured": true
+  },
+  {
+    "id": "45",
+    "name": "Bridget Foy's",
+    "slug": "bridget-foys",
+    "description": "South Street corner institution since 1978 — family-owned, fire-tested, and still going strong. Comfort food classics, a solid burger, great happy hour, and one of the best outdoor patios on Headhouse Square. All-you-can-eat pasta Mondays for $30. The kind of neighborhood spot where regulars and tourists mix easily.",
+    "category": "restaurant",
+    "subcategory": "American",
+    "neighborhood": "Queen Village",
+    "price_level": 2,
+    "vibe": [
+      "casual",
+      "lively"
+    ],
+    "address": "200 South St, Philadelphia, PA 19147",
+    "image_url": "",
+    "website_url": "https://bridgetfoys.com",
+    "instagram": "bridgetfoys",
+    "google_maps_url": "https://maps.google.com/?q=Bridget+Foys+Philadelphia",
+    "tags": [
+      "brunch",
+      "outdoor seating",
+      "happy hour",
+      "burgers",
+      "family-friendly",
+      "iconic"
+    ],
+    "featured": false
+  },
+  {
+    "id": "46",
+    "name": "Ace Coffee Outpost",
+    "slug": "ace-coffee-outpost",
+    "description": "Part café, part vintage store, part event space on Fabric Row. Good coffee, raspberry sprinkle donuts, a projector playing skate videos, and regular pop-ups including wine nights from Mish Mish and block parties. Blends right in with the quirky shops on 4th Street.",
+    "category": "restaurant",
+    "subcategory": "Coffee Shop",
+    "neighborhood": "Queen Village",
+    "price_level": 1,
+    "vibe": [
+      "chill",
+      "artsy",
+      "trendy"
+    ],
+    "address": "747 S 4th St, Philadelphia, PA 19147",
+    "image_url": "",
+    "website_url": "https://acecoffeeoutpost.com",
+    "instagram": "acecoffeeoutpost",
+    "google_maps_url": "https://maps.google.com/?q=Ace+Coffee+Outpost+Philadelphia",
+    "tags": [
+      "coffee",
+      "vintage",
+      "pop-ups",
+      "fabric row"
+    ],
+    "featured": false
+  },
+  {
+    "id": "47",
+    "name": "Royal Sushi & Izakaya",
+    "slug": "royal-sushi-izakaya",
+    "description": "Two restaurants in one — a walk-in izakaya up front with anime on the walls, $4 beers, and crispy karaage wings, plus a hidden 8-seat omakase counter in the back that's the hardest reservation in Philly. Chef Jesse Ito (8x James Beard nominee) runs the best sushi in the city. Michelin Bib Gourmand.",
+    "category": "restaurant",
+    "subcategory": "Japanese / Sushi",
+    "neighborhood": "Queen Village",
+    "price_level": 3,
+    "vibe": [
+      "trendy",
+      "lively",
+      "cozy"
+    ],
+    "address": "780 S 2nd St, Philadelphia, PA 19147",
+    "image_url": "",
+    "website_url": "https://royalizakaya.com",
+    "instagram": "royalizakaya",
+    "google_maps_url": "https://maps.google.com/?q=Royal+Sushi+Izakaya+Philadelphia",
+    "tags": [
+      "sushi",
+      "omakase",
+      "izakaya",
+      "walk-ins",
+      "michelin bib gourmand",
+      "date night",
+      "sake"
+    ],
+    "featured": true
+  },
+  {
+    "id": "48",
+    "name": "Ambra",
+    "slug": "ambra",
+    "description": "One of the most special dining experiences in Philly — a 10-ish course Italian tasting menu at either a communal table or a 4-seat kitchen counter, attached to Southwark. Chef Chris D'Ambro cooks from childhood memories with truffle, caviar, and handmade pasta. $280–$300 per person, cash only. Reservations drop two months out on the 1st. Michelin Recommended.",
+    "category": "restaurant",
+    "subcategory": "Italian Tasting Menu",
+    "neighborhood": "Queen Village",
+    "price_level": 4,
+    "vibe": [
+      "upscale",
+      "romantic"
+    ],
+    "address": "705 S 4th St, Philadelphia, PA 19147",
+    "image_url": "",
+    "website_url": "https://www.ambrarestaurant.com",
+    "instagram": "restaurantambra",
+    "google_maps_url": "https://maps.google.com/?q=Ambra+Restaurant+Philadelphia",
+    "tags": [
+      "tasting menu",
+      "cash only",
+      "reservations required",
+      "date night",
+      "michelin recommended",
+      "fine dining"
+    ],
+    "featured": true
+  },
+  {
+    "id": "49",
+    "name": "Southwark",
+    "slug": "southwark",
+    "description": "Handsome Queen Village corner tavern with one of the city's best cocktail programs — drinks named after movie lines — plus farm-to-table cooking, a killer double cheeseburger with local blue cheese, and a plant-filled back patio that's perfect for date night. Michelin Recommended. Same team as Ambra next door.",
+    "category": "restaurant",
+    "subcategory": "New American",
+    "neighborhood": "Queen Village",
+    "price_level": 3,
+    "vibe": [
+      "romantic",
+      "cozy",
+      "trendy"
+    ],
+    "address": "701 S 4th St, Philadelphia, PA 19147",
+    "image_url": "",
+    "website_url": "https://southwarkrestaurantphilly.com",
+    "instagram": "southwarkphilly",
+    "google_maps_url": "https://maps.google.com/?q=Southwark+Restaurant+Philadelphia",
+    "tags": [
+      "cocktails",
+      "date night",
+      "outdoor seating",
+      "burgers",
+      "michelin recommended",
+      "farm to table"
+    ],
+    "featured": true
+  },
+  {
+    "id": "50",
+    "name": "Tattooed Mom",
+    "slug": "tattooed-mom",
+    "description": "South Street's most beloved dive bar and unofficial street art museum. Every surface is covered in 25 years of stickers, spray paint, and murals. Vegan-friendly bar food (Nashville hot 'chicken', vegan cheesesteaks), over-the-top cocktails with cotton candy and Pop Rocks, comedy shows, craft nights, and a bumper car in the entrance. Pure South Street chaos.",
+    "category": "bar",
+    "subcategory": "Dive Bar / Art Bar",
+    "neighborhood": "Queen Village",
+    "price_level": 1,
+    "vibe": [
+      "artsy",
+      "lively",
+      "casual"
+    ],
+    "address": "530 South St, Philadelphia, PA 19147",
+    "image_url": "",
+    "website_url": "https://www.tattooedmomphilly.com",
+    "instagram": "tattooedmomphilly",
+    "google_maps_url": "https://maps.google.com/?q=Tattooed+Mom+Philadelphia",
+    "tags": [
+      "dive bar",
+      "street art",
+      "vegan options",
+      "late night",
+      "live events",
+      "iconic"
+    ],
+    "featured": true
+  },
+  {
+    "id": "51",
+    "name": "Famous 4th Street Deli",
+    "slug": "famous-4th-street-deli",
+    "description": "Old-school Jewish deli and Queen Village brunch institution. Enormous pastrami specials, challah french toast, matzah ball soup, and towering smoked fish platters. Gets loud and packed on weekends — worth the wait.",
+    "category": "restaurant",
+    "subcategory": "Deli / Brunch",
+    "neighborhood": "Queen Village",
+    "price_level": 2,
+    "vibe": [
+      "casual",
+      "lively"
+    ],
+    "address": "700 S 4th St, Philadelphia, PA 19147",
+    "image_url": "",
+    "website_url": "https://www.famous4thstreetdelicatessen.com",
+    "instagram": "famous4thstreetdeli",
+    "google_maps_url": "https://maps.google.com/?q=Famous+4th+Street+Deli+Philadelphia",
+    "tags": [
+      "brunch",
+      "deli",
+      "iconic",
+      "family-friendly"
+    ],
+    "featured": false
+  },
+  {
+    "id": "52",
+    "name": "Farina Di Vita",
+    "slug": "farina-di-vita",
+    "description": "Takeout-only sandwich shop making some of the best hoagies and chicken cutlet sandwiches on this side of Broad. The Papale Special (pepper turkey, Cooper Sharp, olive oil) is deceptively simple and perfect. Call ahead — they sell out early.",
+    "category": "restaurant",
+    "subcategory": "Sandwiches",
+    "neighborhood": "Queen Village",
+    "price_level": 1,
+    "vibe": [
+      "casual"
+    ],
+    "address": "757 S Front St, Philadelphia, PA 19147",
+    "image_url": "",
+    "website_url": "",
+    "instagram": "farinadivita",
+    "google_maps_url": "https://maps.google.com/?q=Farina+Di+Vita+Philadelphia",
+    "tags": [
+      "hoagies",
+      "takeout only",
+      "cash friendly",
+      "sells out early"
+    ],
+    "featured": false
+  },
+  {
+    "id": "53",
+    "name": "Royal Tavern",
+    "slug": "royal-tavern",
+    "description": "Queen Village neighborhood bar with surprisingly excellent late-night food that punches way above its weight class. The kind of place where you go for a beer and end up staying for the whole menu.",
+    "category": "bar",
+    "subcategory": "Gastropub",
+    "neighborhood": "Queen Village",
+    "price_level": 2,
+    "vibe": [
+      "casual",
+      "lively"
+    ],
+    "address": "937 E Passyunk Ave, Philadelphia, PA 19147",
+    "image_url": "",
+    "website_url": "",
+    "instagram": "royaltavern",
+    "google_maps_url": "https://maps.google.com/?q=Royal+Tavern+Philadelphia",
+    "tags": [
+      "late night",
+      "bar food",
+      "craft beer"
+    ],
+    "featured": false
+  },
+  {
+    "id": "54",
+    "name": "Queen & Rook Game Cafe",
+    "slug": "queen-and-rook",
+    "description": "Board game bar on South Street with 2,000+ games, old-school arcade cabinets, and pinball machines. Nerdy cocktails from the 'Wizarding' menu, seitan wings, and nachos. Perfect for a group hang that doesn't revolve around just drinking.",
+    "category": "bar",
+    "subcategory": "Game Bar",
+    "neighborhood": "Queen Village",
+    "price_level": 2,
+    "vibe": [
+      "lively",
+      "casual"
+    ],
+    "address": "150 South St, Philadelphia, PA 19147",
+    "image_url": "",
+    "website_url": "https://www.queenandrookueen.com",
+    "instagram": "queenandrookueen",
+    "google_maps_url": "https://maps.google.com/?q=Queen+Rook+Game+Cafe+Philadelphia",
+    "tags": [
+      "board games",
+      "arcade",
+      "group friendly",
+      "vegan options",
+      "date night"
+    ],
+    "featured": false
+  },
+  {
+    "id": "55",
+    "name": "Jim's South Street",
+    "slug": "jims-south-street",
+    "description": "Classic cheesesteak shop that draws a line around the block at any hour. Recently renovated and expanded after a fire. A South Street institution and legit contender for Philly's best steak.",
+    "category": "restaurant",
+    "subcategory": "Cheesesteak",
+    "neighborhood": "Queen Village",
+    "price_level": 1,
+    "vibe": [
+      "casual",
+      "lively"
+    ],
+    "address": "400 South St, Philadelphia, PA 19147",
+    "image_url": "",
+    "website_url": "https://www.jimssouthstreet.com",
+    "instagram": "jimssouthst",
+    "google_maps_url": "https://maps.google.com/?q=Jims+South+Street+Philadelphia",
+    "tags": [
+      "cheesesteak",
+      "iconic",
+      "late night"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Bloomsday",
+    "slug": "bloomsday",
+    "description": "Great food, wine, and cocktails to be shared with friends… At Bloomsday, we believe in the simplicity of everyday pleasures. We are a female-led neighborhood restaurant, wine bar and bottle shop striving to make wine infinitely accessible. We don’t do fussy. And because people have always loved a good drink in the company of good food, we do that too. Stay a while or just stop in. Here on the cobblestone shambles of Headhouse Square in Philadelphia, Bloomsday is a lively meeting place for friends, neighbors, and those just passing through.",
+    "category": "bar",
+    "subcategory": "Wine Bar",
+    "neighborhood": "Society Hill",
+    "price_level": 3,
+    "vibe": [
+      "cozy",
+      "artsy",
+      "romantic",
+      "chill",
+      "literary"
+    ],
+    "address": "414 S 2nd St, Philadelphia, PA 19147",
+    "website_url": "https://bloomsdayphilly.com/",
+    "instagram": "bloomsdayphilly",
+    "google_maps_url": "https://maps.google.com/search/Bloomsday+1068+Frankford+Ave+Philadelphia+PA",
+    "tags": [
+      "natural wine",
+      "small plates",
+      "date night"
+    ],
+    "id": "56",
+    "image_url": "",
+    "featured": false
+  },
+  {
+    "name": "Sidecar Bar & Grille",
+    "slug": "sidecar-bar-grille",
+    "description": "A neighborhood gem with an impressive whiskey selection and solid pub grub that doesn't try too hard. The kind of place where you can settle in for the evening with a good bourbon and some wings without any pretense.",
+    "category": "bar",
+    "subcategory": "Whiskey Bar",
+    "neighborhood": "Graduate Hospital",
+    "price_level": 2,
+    "vibe": [
+      "casual",
+      "chill",
+      "cozy"
+    ],
+    "address": "2201 Christian St, Philadelphia, PA 19146",
+    "website_url": "http://www.sidecarphilly.com",
+    "instagram": "sidecarphilly",
+    "google_maps_url": "https://www.google.com/maps/search/Sidecar+Bar+Grille+Philadelphia",
+    "tags": [
+      "whiskey selection",
+      "pub food",
+      "neighborhood bar",
+      "casual dining"
+    ],
+    "id": "57",
+    "image_url": "",
+    "featured": false
+  },
+  {
+    "name": "PHS Pop Up Garden at South Street",
+    "slug": "phs-pop-up-gardens",
+    "description": "The Pennsylvania Horticultural Society transforms vacant lots and underutilized spaces into beautiful temporary gardens throughout the city. These colorful, community-focused spaces offer a peaceful escape and showcase how green infrastructure can revitalize neighborhoods.",
+    "category": "outdoor",
+    "subcategory": "Community Gardens",
+    "neighborhood": "South Street",
+    "price_level": 1,
+    "vibe": [
+      "chill",
+      "artsy",
+      "community-focused",
+      "peaceful"
+    ],
+    "address": "1438 South St, Philadelphia, PA 19146",
+    "website_url": "https://phsonline.org",
+    "instagram": "pennhort",
+    "google_maps_url": "https://www.google.com/maps/search/PHS+Pop+Up+Gardens+Philadelphia",
+    "tags": [
+      "free",
+      "dog friendly",
+      "outdoor seating",
+      "community space",
+      "family friendly"
+    ],
+    "id": "58",
+    "image_url": "",
+    "featured": false
+  }
+]
