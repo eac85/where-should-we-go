@@ -1680,5 +1680,38 @@
     "id": "62",
     "image_url": "",
     "featured": false
+  },
+  {
+    "name": "Three Graces Coffee Co.",
+    "slug": "three-graces-coffee-co",
+    "description": "This bright and cozy coffee shop in Queen Village is perfect for working or studying with its quiet atmosphere and excellent specialty drinks like their strawberry latte with real strawberry chunks. The space feels softer and more welcoming than typical industrial coffee shops, plus they're dog-friendly and provide homemade treats for your furry friends.",
+    "category": "restaurant",
+    "subcategory": "Coffee Shop",
+    "neighborhood": "Queen Village",
+    "price_level": 2,
+    "vibe": [
+      "cozy",
+      "chill",
+      "casual"
+    ],
+    "address": "719 E Passyunk Ave, Philadelphia, PA 19147",
+    "website_url": "threegracescoffee.com",
+    "instagram": "threegracescoffee",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=719+E+Passyunk+Ave%2C+Philadelphia%2C+PA+19147",
+    "tags": [
+      "specialty coffee",
+      "dog friendly",
+      "wifi",
+      "outdoor seating",
+      "pastries",
+      "catering",
+      "wheelchair accessible",
+      "stroller friendly",
+      "quiet",
+      "study spot"
+    ],
+    "id": "63",
+    "image_url": "",
+    "featured": false
   }
 ]
