@@ -1875,5 +1875,37 @@
     "id": "68",
     "image_url": "",
     "featured": false
+  },
+  {
+    "name": "Pietramala",
+    "slug": "pietramala",
+    "description": "This upscale vegan restaurant is absolutely unmatched in Philadelphia's plant-based dining scene, with creative dishes like sweet potato agnolotti and handmade pasta that'll make you forget you're eating vegan. The cozy space features cushy velvet booths, candlelit ambiance, and an open wood-fired kitchen that creates a buzzing yet intimate atmosphere perfect for conversation. It's BYOB and has earned serious recognition including a Michelin Green Star, making it a must-visit for both vegans and omnivores.",
+    "category": "restaurant",
+    "subcategory": "Vegan",
+    "neighborhood": "Northern Liberties",
+    "price_level": 3,
+    "vibe": [
+      "upscale",
+      "cozy",
+      "romantic",
+      "trendy"
+    ],
+    "address": "614 N 2nd St, Philadelphia, PA 19123",
+    "website_url": "https://www.pietramalaphl.com/",
+    "instagram": "pietramala_phl",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=614+N+2nd+St%2C+Philadelphia%2C+PA+19123",
+    "tags": [
+      "BYOB",
+      "wood-fire cooking",
+      "locally sourced",
+      "Michelin Green Star",
+      "James Beard semifinalist",
+      "open kitchen",
+      "sharing plates",
+      "seasonal menu"
+    ],
+    "id": "69",
+    "image_url": "",
+    "featured": false
   }
 ]
