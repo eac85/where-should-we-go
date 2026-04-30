@@ -1682,6 +1682,41 @@
     "featured": false
   },
   {
+    "name": "LMNO",
+    "slug": "lmno",
+    "description": "This Stephen Starr concept is an absolute delight with some of the best vibes in Philly - it's a Baja-Mexican restaurant, art gallery, bookstore, and intimate music venue all under one roof. The millennial pink courtyard and gorgeously designed space make it both stylish and quirky-comfortable, plus their prickly pear margaritas are exceptional.",
+    "category": "restaurant",
+    "subcategory": "Baja-Mexican",
+    "neighborhood": "Fishtown",
+    "price_level": 2,
+    "vibe": [
+      "trendy",
+      "artsy",
+      "lively",
+      "cozy"
+    ],
+    "address": "1749 North Front St. Philadelphia, PA 19122",
+    "website_url": "lmnophilly.com",
+    "instagram": "lmnophilly",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1749+North+Front+St.+Philadelphia%2C+PA+19122",
+    "tags": [
+      "outdoor_seating",
+      "heated_patio",
+      "bookstore",
+      "art_gallery",
+      "music_venue",
+      "cocktails",
+      "Stephen_Starr",
+      "reservations",
+      "happy_hour",
+      "vegan_options",
+      "secret_door"
+    ],
+    "id": "63",
+    "image_url": "",
+    "featured": false
+  },
+  {
     "name": "Three Graces Coffee Co.",
     "slug": "three-graces-coffee-co",
     "description": "This bright and cozy coffee shop in Queen Village is perfect for working or studying with its quiet atmosphere and excellent specialty drinks like their strawberry latte with real strawberry chunks. The space feels softer and more welcoming than typical industrial coffee shops, plus they're dog-friendly and provide homemade treats for your furry friends.",
@@ -1710,7 +1745,38 @@
       "quiet",
       "study spot"
     ],
-    "id": "63",
+    "id": "64",
+    "image_url": "",
+    "featured": false
+  },
+  {
+    "name": "Middle Child",
+    "slug": "middle-child",
+    "description": "This everyday neighborhood joint serves up some seriously amazing sandwiches that even caught the New York Times' attention - their turkey sandwich with house-made blueberry jam on fresh ciabatta is apparently superb. Just be prepared for crowds and long waits, especially during weekend brunch, because this place has developed quite the local following for good reason.",
+    "category": "restaurant",
+    "subcategory": "Sandwich Shop",
+    "neighborhood": "Washington Square West",
+    "price_level": 2,
+    "vibe": [
+      "casual",
+      "cozy",
+      "lively"
+    ],
+    "address": "248 S 11th St. Philly, PA 19107",
+    "website_url": "https://middlechildphilly.com/",
+    "instagram": "middlechildphiladelphia",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=248+S+11th+St.+Philly%2C+PA+19107",
+    "tags": [
+      "sandwiches",
+      "brunch",
+      "lunch",
+      "neighborhood spot",
+      "takeout",
+      "outdoor seating",
+      "gluten-free options",
+      "vegetarian friendly"
+    ],
+    "id": "65",
     "image_url": "",
     "featured": false
   },
@@ -1743,7 +1809,38 @@
       "meatballs",
       "delivery"
     ],
-    "id": "64",
+    "id": "66",
+    "image_url": "",
+    "featured": false
+  },
+  {
+    "name": "O'Jung's Bar",
+    "slug": "o-jungs-bar",
+    "description": "This beloved neighborhood gastropub has been serving Pennsport for over 20 years with unbeatable weekly specials and some of the best wings in South Philly. It's definitely a local's bar with friendly bartenders, affordable drinks, and live weekend entertainment, though it can get pretty crowded during peak hours. Fair warning - it's cash and Venmo only, but there's an ATM on site.",
+    "category": "bar",
+    "subcategory": "Dive Bar",
+    "neighborhood": "Pennsport",
+    "price_level": 1,
+    "vibe": [
+      "chill",
+      "casual",
+      "lively"
+    ],
+    "address": "1625 S 2nd Street, Philadelphia, PA 19148",
+    "website_url": "ojungs215.wixsite.com/ojungs",
+    "instagram": "ojungs215",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1625+S+2nd+Street%2C+Philadelphia%2C+PA+19148",
+    "tags": [
+      "cash only",
+      "weekly specials",
+      "wings",
+      "live entertainment",
+      "sports bar",
+      "family owned",
+      "local favorite",
+      "outdoor seating"
+    ],
+    "id": "67",
     "image_url": "",
     "featured": false
   }

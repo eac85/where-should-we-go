@@ -187,6 +187,7 @@ function PlaceCard({ place, index }: {
 
       <div style={{ marginTop: 14 }}>
         <div
+          className="place-sub"
           style={{
             fontFamily: "var(--font-heading)",
             fontSize: 11,
@@ -200,6 +201,7 @@ function PlaceCard({ place, index }: {
           {place.subcategory}
         </div>
         <div
+          className="place-name"
           style={{
             fontFamily: "var(--font-heading)",
             fontSize: 28,
@@ -403,6 +405,8 @@ export default function Home() {
         }
         @media (max-width: 700px) {
           .grid-container { grid-template-columns: repeat(2, 1fr); gap: 28px 16px; }
+          .place-name { font-size: 18px !important; }
+          .place-sub { font-size: 9px !important; }
         }
         @media (max-width: 440px) {
           .grid-container { grid-template-columns: 1fr; }

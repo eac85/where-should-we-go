@@ -66,6 +66,7 @@ Find and report:
 
 Report everything you find. Be thorough. Include exact URLs and handles — do not guess.`;
 
+    console.log("[suggest] Call 1: searching for", name);
     const searchResponse = await callClaude(
       apiKey,
       [{ role: "user", content: searchPrompt }],
@@ -79,8 +80,10 @@ Report everything you find. Be thorough. Include exact URLs and handles — do n
         ],
       }
     );
+    console.log("[suggest] Call 1 done, stop_reason:", searchResponse.stop_reason);
 
     const searchFindings = extractText(searchResponse);
+    console.log("[suggest] Extracted text length:", searchFindings.length);
 
     // --- Call 2: Structure only (no tools) ---
     const structurePrompt = `Below are real search findings about a place in Philadelphia. Extract the information into JSON using ONLY what's provided below. Do NOT guess or fabricate any details.
@@ -112,13 +115,16 @@ Return ONLY valid JSON (no markdown, no code fences, no explanation):
 --- SEARCH FINDINGS ---
 ${searchFindings}`;
 
+    console.log("[suggest] Call 2: structuring...");
     const structureResponse = await callClaude(
       apiKey,
       [{ role: "user", content: structurePrompt }],
       { max_tokens: 1024 }
     );
+    console.log("[suggest] Call 2 done, stop_reason:", structureResponse.stop_reason);
 
     const jsonText = extractText(structureResponse);
+    console.log("[suggest] Raw JSON text:", jsonText.slice(0, 200));
     const place = JSON.parse(jsonText);
 
     return NextResponse.json(place);
