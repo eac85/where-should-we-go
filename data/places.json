@@ -1843,5 +1843,37 @@
     "id": "67",
     "image_url": "",
     "featured": false
+  },
+  {
+    "name": "Honeysuckle",
+    "slug": "honeysuckle",
+    "description": "This Michelin Guide-recommended fine dining spot is way more than just a restaurant - it's a cultural preservation space serving creative Caribbean and African-inspired dishes that tell stories through food. The multi-course tasting menu ($95) gets rave reviews for its beautiful presentation and thoughtful storytelling, though be prepared for a 3+ hour experience with some pacing issues.",
+    "category": "restaurant",
+    "subcategory": "Caribbean/African Fine Dining",
+    "neighborhood": "Avenue of the Arts North",
+    "price_level": 4,
+    "vibe": [
+      "upscale",
+      "artsy",
+      "cozy"
+    ],
+    "address": "631 N Broad St, Philadelphia, PA 19123",
+    "website_url": "https://www.honeysucklephl.com/",
+    "instagram": "honeysuckle_restaurant",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=631+N+Broad+St%2C+Philadelphia%2C+PA+19123",
+    "tags": [
+      "michelin-guide",
+      "tasting-menu",
+      "james-beard-semifinalists",
+      "cultural-preservation",
+      "local-ingredients",
+      "black-owned",
+      "cocktails",
+      "storytelling",
+      "fine-dining"
+    ],
+    "id": "68",
+    "image_url": "",
+    "featured": false
   }
 ]
