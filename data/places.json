@@ -1907,5 +1907,39 @@
     "id": "69",
     "image_url": "",
     "featured": false
+  },
+  {
+    "name": "Bar Bombón",
+    "slug": "bar-bombon",
+    "description": "This plant-based Puerto Rican and Latin American spot in Rittenhouse is a total gem, even if you're not vegetarian - their 'chorizo' tacos and 'Philly cheesesteak' empanadas are surprisingly satisfying. The margaritas are heavenly and the cozy, modern atmosphere with steel tables and tile walls makes it perfect for both brunch and dinner. Plus, you can bring your dog to the patio!",
+    "category": "restaurant",
+    "subcategory": "Plant-based Latin American",
+    "neighborhood": "Rittenhouse",
+    "price_level": 2,
+    "vibe": [
+      "trendy",
+      "cozy",
+      "casual"
+    ],
+    "address": "133 S 18th St, Philadelphia, PA 19103",
+    "website_url": "https://barbombon.com/",
+    "instagram": "barbombon",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=133+S+18th+St%2C+Philadelphia%2C+PA+19103",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "latin",
+      "puerto rican",
+      "tapas",
+      "tequila bar",
+      "brunch",
+      "happy hour",
+      "patio",
+      "dog friendly",
+      "gluten-free options"
+    ],
+    "id": "70",
+    "image_url": "",
+    "featured": false
   }
 ]
