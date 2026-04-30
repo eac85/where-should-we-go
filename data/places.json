@@ -1713,5 +1713,38 @@
     "id": "63",
     "image_url": "",
     "featured": false
+  },
+  {
+    "name": "Triangle Tavern",
+    "slug": "triangle-tavern",
+    "description": "This South Philly institution since 1933 is the perfect blend of neighborhood tavern and Italian restaurant, serving everything from classic spaghetti and meatballs to innovative vegan versions. With a killer beer selection, spiked water ice, and that friendly local vibe, it's exactly what you want from an East Passyunk hangout.",
+    "category": "restaurant",
+    "subcategory": "Italian",
+    "neighborhood": "East Passyunk",
+    "price_level": 2,
+    "vibe": [
+      "casual",
+      "lively",
+      "cozy",
+      "historic"
+    ],
+    "address": "1338 S 10th Street, Philadelphia PA 19147",
+    "website_url": "http://www.triangletavernphilly.com/",
+    "instagram": "triangletavern",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1338+S+10th+Street%2C+Philadelphia+PA+19147",
+    "tags": [
+      "sports bar",
+      "neighborhood tavern",
+      "vegan options",
+      "outdoor seating",
+      "craft beer",
+      "south philly",
+      "water ice",
+      "meatballs",
+      "delivery"
+    ],
+    "id": "64",
+    "image_url": "",
+    "featured": false
   }
 ]
