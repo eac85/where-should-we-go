@@ -1941,5 +1941,42 @@
     "id": "70",
     "image_url": "",
     "featured": false
+  },
+  {
+    "name": "FRIEDA",
+    "slug": "frieda",
+    "description": "This intentionally old-school European café in Old City creates a welcoming community space where people from all walks of life can enjoy thoughtfully prepared breakfast and lunch dishes. With no free WiFi to encourage conversation, art exhibitions, and regular community events, FRIEDA feels like something special that will lift your mood and make you feel part of a genuine neighborhood gathering place.",
+    "category": "restaurant",
+    "subcategory": "European Café",
+    "neighborhood": "Old City",
+    "price_level": 2,
+    "vibe": [
+      "cozy",
+      "artsy",
+      "casual",
+      "chill"
+    ],
+    "address": "320 Walnut Street, Philadelphia, PA 19106",
+    "website_url": "friedaforgenerations.com",
+    "instagram": "friedaforgenerations",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=320+Walnut+Street%2C+Philadelphia%2C+PA+19106",
+    "tags": [
+      "breakfast",
+      "lunch",
+      "brunch",
+      "baked goods",
+      "gluten-free options",
+      "community events",
+      "art exhibitions",
+      "outdoor seating",
+      "kid-friendly",
+      "group-friendly",
+      "wheelchair accessible",
+      "no wifi",
+      "takeout"
+    ],
+    "id": "71",
+    "image_url": "",
+    "featured": false
   }
 ]
